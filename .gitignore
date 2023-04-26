@@ -1,1 +1,7 @@
 test.db
+test_*.db
+email.db
+sample*.db
+*.sql
+*.db-journal
+*.sqbpro
